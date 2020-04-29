@@ -1,4 +1,4 @@
-# snowpeopleApp
+# Image Classifier Larger Model
   
  This is the repo for an interactive deep learning image classifier. It suppports detection of 2 categories of snowmen: abominable, and Olaf. 
   
@@ -11,7 +11,7 @@
   
  * requirements.txt - requirements file lists dependencies. 
   
- * snowpeople_voila.ipynb - Notebook with basic python widgets for UI, and path to model file that Binder uses to generate the production UI. 
+ * index.ipynb - Notebook with basic python widgets for UI, and path to model file that Binder uses to generate the production UI. 
   
   
   
